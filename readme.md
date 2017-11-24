@@ -2,7 +2,7 @@
 
 En esta ocasión se dará a conocer los tipos de navegación en una web, en las siguientes imagenes.
 
-#### Breather
+### Breather
 
 ![Texto alternativo](assets/breather1.png)
 
@@ -12,11 +12,11 @@ En la imagen, borde azul es de navegacion global porque aunque no aparece en tod
 
 
 
-#### GitHub
+### GitHub
 
 ![Texto alternativo](assets/github.png)
 
-#### Medium
+### Medium
 
 ![Texto alternativo](assets/mediun.partes.png)
 
