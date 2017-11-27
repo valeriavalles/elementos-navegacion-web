@@ -1,6 +1,7 @@
 ## Elementos de navegacion de una Web
 
-En esta ocasión se dará a conocer los tipos de navegación en una web, en las siguientes imagenes.
+En esta ocasión se dará a conocer los elementos de navegación en 
+una web, en las siguientes imagenes.
 
 ### Breather
 
@@ -15,6 +16,11 @@ En la imagen, borde azul es de navegacion global porque aunque no aparece en tod
 ### GitHub
 
 ![Texto alternativo](assets/github.png)
+
+![Texto alternativo](assets/navele.png)
+
+
+
 
 ### Medium
 
